@@ -1,5 +1,0 @@
-FROM baseimage
-
-RUN chmod +x start_density.sh
-
-ENTRYPOINT ["/app/start_density.sh"]
