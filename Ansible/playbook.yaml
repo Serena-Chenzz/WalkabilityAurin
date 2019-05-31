@@ -1,0 +1,7 @@
+- hosts: Demo
+  sudo: yes
+  roles: 
+    - common
+
+  
+
